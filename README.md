@@ -17,10 +17,7 @@
 ---
 
 <!--  👩‍💻 关于我  -->
-<h3 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="28" />
-  &nbsp; 关于我
-</h3>
+<h3 align="center">🐣 关于我</h3>
 
 <p align="center">
   <samp>
@@ -33,10 +30,7 @@
 </p>
 
 <!--  🛠️ 技术栈  -->
-<h3 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514090/6114/blob_cheery.png?1643514090" width="28" />
-  &nbsp; 技术栈
-</h3>
+<h3 align="center">🛠️ 技术栈</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=f5e6ea" />
@@ -52,10 +46,7 @@
 ---
 
 <!--  📊 GitHub 统计 -->
-<h3 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514593/5997/sparkles.png?1643514593" width="28" />
-  &nbsp; GitHub 统计
-</h3>
+<h3 align="center">📊 GitHub 统计</h3>
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=transparent777&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true&bg_color=fff5f7&title_color=d48cb9&icon_color=f7a8c7&text_color=9e8a94" />
@@ -70,10 +61,7 @@
 ---
 
 <!--  🐣 趣味数据  -->
-<h3 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514862/8192/among_us_party.png?1643514862" width="28" />
-  &nbsp; 一些数据
-</h3>
+<h3 align="center">📈 一些数据</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=transparent777&style=flat-square&color=f7a8c7&label=%F0%9F%91%80%20%E8%A2%AB%E5%81%B7%E7%9C%8B%E4%BA%86" />
