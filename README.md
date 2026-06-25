@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F7A8C7&center=true&vCenter=true&width=435&lines=%F0%9F%8C%B8+%E4%BD%A0%E5%A5%BD%E5%91%80%EF%BD%9E%E6%88%91%E6%98%AF%E4%B8%80%E5%8F%AA%E5%8F%AF%E7%88%B1%E7%9A%84%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AD%A6%E7%94%9F;%F0%9F%90%A3+%E5%9C%A8%E5%AD%A6+C+%2F+C%2B%2B+%2F+%E5%B5%8C%E5%85%A5%E5%BC%8F;%F0%9F%8D%93+%E5%8A%AA%E5%8A%9B%E5%8F%98%E5%BC%BA%E4%B8%AD...;%E2%AD%90+%E7%83%AD%E7%88%B1%E5%BC%80%E6%BA%90%EF%BC%8C%E4%B9%90%E4%BA%8E%E5%88%86%E4%BA%AB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F7A8C7&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+%E4%BD%A0%E5%A5%BD%E5%91%80;%F0%9F%90%A3+%E5%9C%A8%E5%AD%A6+C+%2F+C%2B%2B+%2F+%E5%B5%8C%E5%85%A5%E5%BC%8F;%F0%9F%8D%93+%E5%8A%AA%E5%8A%9B%E5%8F%98%E5%BC%BA%E4%B8%AD...;%E2%AD%90+%E7%83%AD%E7%88%B1%E5%BC%80%E6%BA%90%EF%BC%8C%E4%B9%90%E4%BA%8E%E5%88%86%E4%BA%AB" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,28 +22,15 @@
   &nbsp; 关于我
 </h3>
 
-```cpp
-#include <iostream>
-
-class Student {
-public:
-    std::string name   = "transparent777 🐰";
-    std::string role   = "嵌入式方向学生 📚";
-    std::string school = "努力学习中... 🔌";
-    std::string hobby  = "摸鱼 + 折腾硬件 + 写 Bug 🐞";
-
-    void sayHi() {
-        std::cout << "欢迎来到我的 GitHub 小窝～" << std::endl;
-        std::cout << "一起加油吧！✨" << std::endl;
-    }
-};
-
-int main() {
-    Student me;
-    me.sayHi();
-    return 0;
-}
-```
+<p align="center">
+  <samp>
+    🐰 <b>transparent777</b><br>
+    📚 嵌入式方向学生<br>
+    🔌 专注于 C / C++ / MCU 开发<br>
+    🍓 喜欢折腾硬件 + 写有趣的项目<br>
+    ✨ 热爱开源，乐于分享
+  </samp>
+</p>
 
 <!--  🛠️ 技术栈  -->
 <h3 align="center">
