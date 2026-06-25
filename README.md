@@ -60,15 +60,6 @@
 
 ---
 
-<!--  🐣 趣味数据  -->
-<h3 align="center">📈 一些数据</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=transparent777&style=flat-square&color=f7a8c7&label=%F0%9F%91%80%20%E8%A2%AB%E5%81%B7%E7%9C%8B%E4%BA%86" />
-  <img src="https://img.shields.io/github/followers/transparent777?style=flat-square&color=ffd6e0&label=%F0%9F%92%95%20%E5%85%B3%E6%B3%A8" />
-  <img src="https://img.shields.io/github/stars/transparent777?style=flat-square&color=ffc8d6&label=%E2%AD%90%20%E6%98%9F%E6%98%9F&logo=github" />
-</p>
-
 ---
 
 <p align="center">
