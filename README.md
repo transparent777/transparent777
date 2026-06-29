@@ -45,21 +45,6 @@
 
 ---
 
-<!--  📊 GitHub 统计 -->
-<h3 align="center">📊 GitHub 统计</h3>
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=transparent777&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true&bg_color=fff5f7&title_color=d48cb9&icon_color=f7a8c7&text_color=9e8a94" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=transparent777&layout=compact&hide_border=true&bg_color=fff5f7&title_color=d48cb9&text_color=9e8a94&langs_count=6" />
-</p>
-
-<!--  📈 贡献图  -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=transparent777&bg_color=fff5f7&color=d48cb9&line=f7a8c7&point=eebbcb&area=true&area_color=fadadd&hide_border=true" />
-</p>
-
----
-
 ---
 
 <p align="center">
